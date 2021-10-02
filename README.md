@@ -1,0 +1,2 @@
+# eula
+EULA ShaRPG community
