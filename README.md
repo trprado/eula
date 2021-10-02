@@ -7,7 +7,7 @@
 
 O aceite aos termos desta Política ocorrerá quando o Usuário acessar ou usar o site fornecido pela Provadora, declarando-se que está ciente e de acordo com os termos e condições previstos neste documento. 
 
-RESPONSABILIDADES DO USUÁRIO PELO USO DA PLATAFORMA
+## RESPONSABILIDADES DO USUÁRIO PELO USO DA PLATAFORMA
 
 Ao se cadastrar, o Usuário procederá à abertura de uma conta para sua identificação perante a Provedora. O Usuário deverá possuir, ao menos 16 anos de idade, reservando-se a Provedora o direito em restringir determinados conteúdos apenas àqueles maiores de 18 anos, sendo que a responsabilidade por qualquer falsidade, inexatidão ou omissão de dados na abertura e manutenção da Conta é exclusivamente do Usuário.
 
